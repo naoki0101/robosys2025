@@ -1,6 +1,6 @@
 # 選手検索コマンド
 
-![test](https://github.com/naoki0101/robosys2023/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/naoki0101/robosys2025/actions/workflows/test.yml/badge.svg)
 
  標準入出力から選手を検索できるコマンドです。
 
@@ -9,19 +9,15 @@
 ＊ 
 
 ## 実行例
-＊ seq 10 | ./plus
-
-　55
-
-　　 のようなことができます。
+＊ 
 
 ## 必要なソフトウェア
 　　　＊ python
 
-                 テスト済み： 3.7～3.10
+                 テスト済み： 3.11～3.14
 
 ## テスト環境
-＊　Ubuntu 20.04
+＊　Ubuntu 24.04
 
 
 ## ライセンス
@@ -29,4 +25,4 @@
 
  ＊詳しくはLICENSE欄を見てください。
 
-© 2023 Naoki Otsubo
+© 2025 Naoki Otsubo
