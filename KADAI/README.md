@@ -31,11 +31,6 @@ KADAI/
 
 ├── test.bash
 
-└── tmp/
-  
-  └── data/
-  
-      └── players.csv
 
 
 ## 実行方法
