@@ -1,4 +1,4 @@
-#!/bin/bash -xv 
+#!/bin/bash 
 # SPDX-FileCopyrightText: 2025 Naoki Otsubo
 # SPDX-License-Identifier: BSD-3-Clause
 
@@ -36,7 +36,19 @@ expected=$'坂本勇人,読売ジャイアンツ,6\n大谷翔平,ロサンゼル
 
 out="$(printf "  大谷翔平  \n" | (cd "$workdir" && python3 serch))"; status=$?
 [ "$status" -eq 0 ] || ng ${LINENO}
+[ "$out" = "大谷翔平,ロサンゼルスドジャース,17" ] || ng ${LINENO}   
+
+
+out="$(printf "ロサンゼルスドジャース,17\n" | (cd "$workdir" && python3 serch))"; status=$?
+[ "$status" -eq 0 ] || ng ${LINENO}
 [ "$out" = "大谷翔平,ロサンゼルスドジャース,17" ] || ng ${LINENO}
+
+
+out="$(printf "ロサンゼルスドジャース,17\n読売ジャイアンツ,6\n" | (cd "$workdir" && python3 serch))"; status=$?
+[ "$status" -eq 0 ] || ng ${LINENO}
+expected=$'大谷翔平,ロサンゼルスドジャース,17\n坂本勇人,読売ジャイアンツ,6'
+[ "$out" = "$expected" ] || ng ${LINENO}
+
 
 set +e
 out="$(printf "存在しない選手\n" | (cd "$workdir" && python3 serch))"; status=$?
