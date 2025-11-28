@@ -18,7 +18,7 @@
 
 
 ## 実行方法
-  1,インストール
+  1, インストール
 
     リポジトリをcloneし、KADAIディレクトリに移動する。
 
@@ -26,7 +26,7 @@
 
 　  cd ~/robosys2025/KADAI
 
-  2,実行
+  2, 実行
 
 　　①　名前から検索
 
@@ -38,7 +38,7 @@
 
 ## 実行例
 
-  ①   echo "大谷翔平" | ./serch
+  ①    echo "大谷翔平" | ./serch
 
 　　　大谷翔平,ロサンゼルスドジャース,17
   
@@ -62,7 +62,8 @@
 ＊詳しくはLICENSE欄を見てください。
 
 ## 参考文献
-＊[1] motoki1990, “pythonでcsvを読み込む方法まとめ（csv.DictReaderの使い方）”, 
+
+  [1] motoki1990, “pythonでcsvを読み込む方法まとめ（csv.DictReaderの使い方）”, 
 
     Qiita, 2020. https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869
 
