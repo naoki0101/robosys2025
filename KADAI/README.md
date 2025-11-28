@@ -13,23 +13,7 @@
 
 という 2 つの機能を 1 つのコマンドで両立させています。
 
----
-
-## 構成
-
-KADAI/
-
-├── LICENSE
-
-├── README.md
-
-├── data/
-
-│   └── players.csv
-
-├── serch
-
-├── test.bash
+--
 
 
 
