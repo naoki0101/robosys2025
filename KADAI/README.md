@@ -15,17 +15,27 @@
 
 ---
 
-##  構成
+## 構成
 
+KADAI/
 
-**KADAI/
-  ├── LICENSE
-  ├── README.md
-  ├── data/
-  │   └── players.csv 
-  ├── serch             
-  ├── test.bash         
-  └── tmp/              
+├── LICENSE
+
+├── README.md
+
+├── data/
+
+│   └── players.csv
+
+├── serch
+
+├── test.bash
+
+└── tmp/
+  
+  └── data/
+  
+      └── players.csv
 
 
 ## 実行方法
