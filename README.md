@@ -24,7 +24,7 @@
 
 　  git clone https://github.com/naoki0101/robosys2025.git
 
-　  cd ~/robosys2025/KADAI
+　  cd ~/robosys2025
 
   2, 実行
 

@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
 # SPDX-FileCopyrightText: 2025 Naoki Otsubo
 # SPDX-License-Identifier: BSD-3-Clause
 
