@@ -3,9 +3,7 @@
 ![test](https://github.com/naoki0101/robosys2025/actions/workflows/test.yml/badge.svg)
 
 
-ロボットシステム学（robosys2025）の課題として作成した  
-
-野球選手情報検索コマンド `serch`** と、そのテストスクリプトをまとめたディレクトリです。
+ロボットシステム学（robosys2025）の課題として作成した 野球選手情報検索コマンド `serch` と、そのテストスクリプトをまとめたディレクトリです。
 
 - 選手名から **チーム名・背番号** を調べる
 
@@ -21,9 +19,9 @@
 
      リポジトリをcloneし、KADAIディレクトリに移動する。
 
-　-  git clone https://github.com/naoki0101/robosys2025.git
+　  　git clone https://github.com/naoki0101/robosys2025.git
 
-　-  cd ~/robosys2025
+　　  cd ~/robosys2025
 
   2, 実行
 
