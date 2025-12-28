@@ -19,11 +19,11 @@
 ## 実行方法
   1, インストール
 
-    リポジトリをcloneし、KADAIディレクトリに移動する。
+     リポジトリをcloneし、KADAIディレクトリに移動する。
 
-　  git clone https://github.com/naoki0101/robosys2025.git
+　-  git clone https://github.com/naoki0101/robosys2025.git
 
-　  cd ~/robosys2025
+　-  cd ~/robosys2025
 
   2, 実行
 
@@ -46,19 +46,18 @@
 　　　 大谷翔平,ロサンゼルスドジャース,17 
 
 ## 必要なソフトウェア
-　　* python
-
-                 テスト済み： 3.11～3.14
+　python    テスト済み： 3.11～3.14
 
 ## テスト環境
-*　Ubuntu 24.04
+
+　Ubuntu 24.04
 
 
 ## ライセンス
 
-*このソフトウェアパッケージは３乗項BSDライセンスのもと使用再頒布できます。
+  このソフトウェアパッケージは３乗項BSDライセンスのもと使用再頒布できます。
 
-*詳しくはLICENSE欄を見てください。
+  詳しくはLICENSE欄を見てください。
 
 ## 参考文献
 
