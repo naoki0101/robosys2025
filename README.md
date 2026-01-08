@@ -17,7 +17,7 @@
 ## 実行方法
  1, インストール
 
-     リポジトリをcloneし、KADAIディレクトリに移動する。
+   リポジトリをcloneし、KADAIディレクトリに移動する。
 
     ```python
     git clone https://github.com/naoki0101/robosys2025.git
@@ -32,13 +32,13 @@
 　　①　名前から検索
       
       ```python
-      echo "大谷翔平" | ./serch
+      echo "選手名" | ./serch
       ```
 
 　 ②　チーム名＋背番号から検索
 
       ```python
-      echo "ロサンゼルスドジャース,17" | ./serch
+      echo "チーム名,番号" | ./serch
       ```
 
   3, 実行例(大谷翔平の背番号や所属チームを調べた時)
@@ -71,25 +71,25 @@
 
 ## 参考文献
 
-  [1] motoki1990, “pythonでcsvを読み込む方法まとめ（csv.DictReaderの使い方）”, 
+[1] motoki1990, “pythonでcsvを読み込む方法まとめ（csv.DictReaderの使い方）”, 
 
-    https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869
+   https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869
 
-　[2] ttsubo, “Pythonのpathlibの使い方（Pathオブジェクト入門）”, 
+[2] ttsubo, “Pythonのpathlibの使い方（Pathオブジェクト入門）”, 
 
-    https://qiita.com/ttsubo/items/9ffc6117a2df72e7a39a
+   https://qiita.com/ttsubo/items/9ffc6117a2df72e7a39a
 
-　[3] ykhirao, “Pythonで標準入力（stdin）を扱う方法”, 
+[3] ykhirao, “Pythonで標準入力（stdin）を扱う方法”, 
 
-    https://qiita.com/ykhirao/items/2d90e1c8e93b2e8dddc4
+   https://qiita.com/ykhirao/items/2d90e1c8e93b2e8dddc4
 
-　[4] kawaz, “BashでPIPESTATUSを理解する（パイプの終了ステータス）”, 
+[4] kawaz, “BashでPIPESTATUSを理解する（パイプの終了ステータス）”, 
 
-    https://qiita.com/kawaz/items/cb4d8ba737b7b187c29c
+   https://qiita.com/kawaz/items/cb4d8ba737b7b187c29c
 
-　[5] koara-local, “exitコードの意味と使い方（UNIXの基本）”, 
+[5] koara-local, “exitコードの意味と使い方（UNIXの基本）”, 
 
-    https://qiita.com/koara-local/items/e6381329598e6a14e9cc
+   https://qiita.com/koara-local/items/e6381329598e6a14e9cc
 
 
 © 2025 Naoki Otsubo
