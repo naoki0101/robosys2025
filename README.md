@@ -79,21 +79,17 @@
 
    https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869
 
-[2] ttsubo, “Pythonのpathlibの使い方（Pathオブジェクト入門）”, 
+[2] “Pythonのpathlibの使い方（Pathオブジェクト入門）”, 
 
-   https://qiita.com/ttsubo/items/9ffc6117a2df72e7a39a
+   https://python-academia.com/pathlib/
 
-[3] ykhirao, “Pythonで標準入力（stdin）を扱う方法”, 
+[3] “Pythonで標準入力（stdin）を扱う方法”, 
 
-   https://qiita.com/ykhirao/items/2d90e1c8e93b2e8dddc4
+   https://dtnavi.tcdigital.jp/cat_system/language_115/
 
-[4] kawaz, “BashでPIPESTATUSを理解する（パイプの終了ステータス）”, 
+[4] ロボットシステム学（講義資料）
 
-   https://qiita.com/kawaz/items/cb4d8ba737b7b187c29c
+   https://github.com/ryuichiueda/slides_marp/blob/master/robosys2025/README.md 
 
-[5] koara-local, “exitコードの意味と使い方（UNIXの基本）”, 
-
-   https://qiita.com/koara-local/items/e6381329598e6a14e9cc
-
-
+   
 © 2025 Naoki Otsubo
