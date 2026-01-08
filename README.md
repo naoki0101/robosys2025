@@ -17,43 +17,43 @@
 ## 実行方法
  1, インストール
 
-   リポジトリをcloneし、KADAIディレクトリに移動する。
+    リポジトリをcloneし、KADAIディレクトリに移動する。
 
-    ```python
-    git clone https://github.com/naoki0101/robosys2025.git
-    ```
+   ```python
+   git clone https://github.com/naoki0101/robosys2025.git
+   ```
 
-    ```python
-    cd ~/robosys2025
-    ```
+   ```python
+   cd ~/robosys2025
+   ```
 
  2, 実行
 
-　　①　名前から検索
+  ①　名前から検索
       
-      ```python
-      echo "選手名" | ./serch
-      ```
+    ```bash
+    echo "選手名" | ./serch
+    ```
 
-　 ②　チーム名＋背番号から検索
+  ②　チーム名＋背番号から検索
 
-      ```python
-      echo "チーム名,番号" | ./serch
-      ```
+   ```bash
+   echo "チーム名,番号" | ./serch
+   ```
 
   3, 実行例(大谷翔平の背番号や所属チームを調べた時)
 
-   ①   ```python
-       echo "大谷翔平" | ./serch
-       ```
+ ① ```bash
+   echo "大谷翔平" | ./serch
+   ```
 
 　　　 大谷翔平,ロサンゼルスドジャース,17
   
-   ②　 ```python
-       echo "ロサンゼルスドジャース,17" | ./serch
-       ```
+ ② ```bash
+   echo "ロサンゼルスドジャース,17" | ./serch
+   ```
 
-　　　 大谷翔平,ロサンゼルスドジャース,17 
+　　大谷翔平,ロサンゼルスドジャース,17 
 
 ## 必要なソフトウェア
   - python    テスト済み： 3.11～3.14
