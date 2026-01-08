@@ -19,37 +19,37 @@
 
      リポジトリをcloneし、KADAIディレクトリに移動する。
 
-    ```
-　  git clone https://github.com/naoki0101/robosys2025.git
+    ```python
+    git clone https://github.com/naoki0101/robosys2025.git
     ```
 
-    ```
-　　cd ~/robosys2025
+    ```python
+    cd ~/robosys2025
     ```
 
  2, 実行
 
 　　①　名前から検索
       
-      ```
-　　　echo "大谷翔平" | ./serch
+      ```python
+      echo "大谷翔平" | ./serch
       ```
 
 　 ②　チーム名＋背番号から検索
 
-      ```
-　　　echo "ロサンゼルスドジャース,17" | ./serch
+      ```python
+      echo "ロサンゼルスドジャース,17" | ./serch
       ```
 
   3, 実行例(大谷翔平の背番号や所属チームを調べた時)
 
-   ①   ```
+   ①   ```python
        echo "大谷翔平" | ./serch
        ```
 
 　　　 大谷翔平,ロサンゼルスドジャース,17
   
-   ②　 ```
+   ②　 ```python
        echo "ロサンゼルスドジャース,17" | ./serch
        ```
 
@@ -73,23 +73,23 @@
 
   [1] motoki1990, “pythonでcsvを読み込む方法まとめ（csv.DictReaderの使い方）”, 
 
-    Qiita, 2020. https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869
+    https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869
 
 　[2] ttsubo, “Pythonのpathlibの使い方（Pathオブジェクト入門）”, 
 
-    Qiita, 2017. https://qiita.com/ttsubo/items/9ffc6117a2df72e7a39a
+    https://qiita.com/ttsubo/items/9ffc6117a2df72e7a39a
 
 　[3] ykhirao, “Pythonで標準入力（stdin）を扱う方法”, 
 
-    Qiita, 2021. https://qiita.com/ykhirao/items/2d90e1c8e93b2e8dddc4
+    https://qiita.com/ykhirao/items/2d90e1c8e93b2e8dddc4
 
 　[4] kawaz, “BashでPIPESTATUSを理解する（パイプの終了ステータス）”, 
 
-    Qiita, 2016. https://qiita.com/kawaz/items/cb4d8ba737b7b187c29c
+    https://qiita.com/kawaz/items/cb4d8ba737b7b187c29c
 
 　[5] koara-local, “exitコードの意味と使い方（UNIXの基本）”, 
 
-    Qiita, 2021. https://qiita.com/koara-local/items/e6381329598e6a14e9cc
+    https://qiita.com/koara-local/items/e6381329598e6a14e9cc
 
 
 © 2025 Naoki Otsubo
