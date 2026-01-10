@@ -75,19 +75,19 @@
 
 ## 参考文献
 
-[1] motoki1990, “pythonでcsvを読み込む方法まとめ（csv.DictReaderの使い方）”, 
+[1] “pythonでのcsvファイルの読み込み” , @motoki1990 ,2022 
 
    https://qiita.com/motoki1990/items/0274d8bcf1a97fe4a869
 
-[2] “Pythonのpathlibの使い方（Pathオブジェクト入門）”, 
+[2] “python pathlibの使い方” , pythonアカデミー, 2023 
 
    https://python-academia.com/pathlib/
 
-[3] “Pythonで標準入力（stdin）を扱う方法”, 
+[3] “Pythonの標準入力を徹底解説” , デジタルトレンドナビ, 2025 
 
    https://dtnavi.tcdigital.jp/cat_system/language_115/
 
-[4] ロボットシステム学（講義資料）
+[4] ロボットシステム学（講義資料）, Ryuichi Ueda, 2025
 
    https://github.com/ryuichiueda/slides_marp/blob/master/robosys2025/README.md 
 
